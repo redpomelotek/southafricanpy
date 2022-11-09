@@ -1,0 +1,9 @@
+   47  cd "C:\Users\User\Desktop\SOUTHAFRICANPY GITHUB\EBOOKS FOR GOOGLE DRIVE\2022"
+   48  ls
+   49  git init
+   50  git remote add origin https://github.com/redpomelotek/test-.git
+   51  git remote -v
+   52  git add .
+   53  git commit -m "First Commit"
+   54  git push origin master
+   
